@@ -1,3 +1,5 @@
 Step 1: Choose the pizza place
 Step 2: Choose your pizza
+Step 2a: Choose your toppings
 Step 3: Order and enjoy
+Step 3a: If order is wrong call back to have them deliver new pizza
