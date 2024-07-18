@@ -1,4 +1,4 @@
-what is a class in c#?
+What is a class in C#?
 
 In C#, a class is a fundamental building block of object-oriented programming. It serves as a blueprint for creating objects, defining their structure and behavior. A class encapsulates data for the object (fields) and methods to manipulate that data. Here's a breakdown:
 
